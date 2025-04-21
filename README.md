@@ -20,7 +20,7 @@ Happy reading! ✨
 
 ### Technology
 - [Building a Custom Video Dataset Pipeline with TensorFlow: A Step-by-Step Beginner-Friendly Guide](https://medium.com/@ali.khalili.t98/building-a-custom-video-dataset-pipeline-with-tensorflow-a-step-by-step-beginner-friendly-guide-14750725dbc5)  
-    - Complementary Material(s): [TensorFlow Video Dataset Loader](https://github.com/AliKHaliliT/My-Medium-Stories)
+    - Complementary Material(s): [TensorFlow Video Dataset Loader](https://github.com/AliKHaliliT/TensorFlow-Video-Dataset-Loader)
 <!-- - [Story Title 2](link-to-story-2)   -->
 
 <!-- ### 🌱 Personal Growth
