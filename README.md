@@ -19,6 +19,10 @@ Happy reading! ✨
 
 ## All Stories
 
+- [The Shame of Coding with AI (and the New Meaning of Smart)](https://medium.com/p/1071beca4bcd)
+  - Topics: Artificial Intelligence, Programming, Software Development, Vibe Coding, Imposter Syndrome
+  - Date: June 17, 2026
+
 - [From Ancient Tombs to Agentic AI: The Evolution of the “Answerer”](https://medium.com/@ali.khalili.t98/from-ancient-tombs-to-agentic-ai-the-evolution-of-the-answerer-1b1ad9a2196a)
   - Topics: Artificial Intelligence, History, Technology, Agentic AI, Philosophy
   - Date: February 10, 2026
