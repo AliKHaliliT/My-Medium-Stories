@@ -19,7 +19,7 @@ Happy reading! ✨
 
 ## All Stories
 
-- [The Shame of Coding with AI (and the New Meaning of Smart)](https://medium.com/p/1071beca4bcd)
+- [The Shame of Coding with AI (and the New Meaning of Smart)](https://medium.com/@ali.khalili.t98/the-shame-of-coding-with-ai-and-the-new-meaning-of-smart-1071beca4bcd)
   - Topics: Artificial Intelligence, Programming, Software Development, Vibe Coding, Imposter Syndrome
   - Date: June 17, 2026
 
