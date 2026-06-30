@@ -19,6 +19,10 @@ Happy reading! ✨
 
 ## All Stories
 
+- [The Mystery With No Answer Key and the Machine That Sounds Right](https://medium.com/@ali.khalili.t98/the-mystery-with-no-answer-key-and-the-machine-that-sounds-right-72ace258190f)
+  - Topics: Artificial Intelligence, Technology, Large Language Models, Puzzles, AI Hallucinations
+  - Date: June 30, 2026
+
 - [The Shame of Coding with AI (and the New Meaning of Smart)](https://medium.com/@ali.khalili.t98/the-shame-of-coding-with-ai-and-the-new-meaning-of-smart-1071beca4bcd)
   - Topics: Artificial Intelligence, Programming, Software Development, Vibe Coding, Imposter Syndrome
   - Date: June 17, 2026
